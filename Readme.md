@@ -82,5 +82,3 @@ We provide our support group below, where you can contact us to participate in t
 
 Discord : https://discord.gg/qhx2G69B
 Youtube : https://www.youtube.com/@devgamer_ofc/
-
-Dev Gamer.
