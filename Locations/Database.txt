@@ -1,0 +1,31 @@
+(6588,-5373) Dayton Wetlands - Storage Crate
+(6588,-5371) Dayton Wetlands - Supply Crate
+(6591,-5509) Dayton Wetlands - Storage Crate
+(6705,-5706) Dayton Wetlands - Loot Mysterious treasures
+(6729,-5719) Dayton Wetlands - Gear Crate
+(6728,-5832) Dayton Wetlands - Weapon Crate
+(6627,-5838) Dayton Wetlands - Storage Crate
+(6623,-5816) Dayton Wetlands - Storage Crate
+(6636,-5831) Dayton Wetlands - Storage Crate
+(7240,-5353) Dayton Wetlands - Loot Mystical Crate - Storage Crate
+(7265,-5315) Dayton Wetlands - Loot Mystical Crate
+(7247,-5355) Dayton Wetlands - Weapon Crate
+(7282,-5411) Dayton Wetlands - Storage Crate
+(7299,-5385) Dayton Wetlands - Storage Crate
+(7216,-5110) Dayton Wetlands - Storage Crate
+(7204,-5119) Dayton Wetlands - Storage Crate
+(7387,-5216) Dayton Wetlands - Storage Crate
+(7488,-4917) Dayton Wetlands - Storage Crate
+(7291,-4817) Dayton Wetlands - Loot Mystical Crate
+(7290,-4805) Dayton Wetlands - Morphic Crate
+(7303,-4800) Dayton Wetlands - Weapon Crate
+(7292,-4723) Dayton Wetlands - Storage Crate
+(7294,-4738) Dayton Wetlands - Storage Crate
+(7389,-4756) Dayton Wetlands - The Cultist Treasure
+(7391,-4764) Dayton Wetlands - Storage Crate
+(6133,-6022) Dayton Wetlands - Gear Crate
+(6118,-6023) Dayton Wetlands - Storage Crate
+(6191,-6022) Dayton Wetlands - Storage Crate
+(6229,-6038) Dayton Wetlands - Storage Crate
+(4420,-4421) Dev Gamer - House - Mysterious treasures
+(4420,-4421) Dev Gamer - House - Mysterious treasures

@@ -1,0 +1,10 @@
+(6484,-5376) Dayton Wetlands 
+(6588,-5373) Dayton Wetlands - Storage Create, Coordenadas copiadas do Servidor do Vampire no Discord.';
+
+(6588,-5371) Dayton Wetlands - Supply Create, Coordenadas copiadas do Servidor do Vampire no Discord.
+
+(6591,-5509) Dayton Wetlands - Storage Crate, Coordenadas copiadas do Servidor do Vampire no Discord.
+
+(6705,-5706) Dayton Wetlands - Loot Mysterious treasures
+
+(6729,-5719) Dayton Wetlands - Gear Crate
