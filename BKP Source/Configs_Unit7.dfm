@@ -240,12 +240,42 @@ object Configs: TConfigs
         TabOrder = 11
         TextHint = 'left'
       end
+      object Button2: TButton
+        Left = 319
+        Top = 30
+        Width = 75
+        Height = 25
+        Caption = 'Save'
+        Font.Charset = DEFAULT_CHARSET
+        Font.Color = clWindowText
+        Font.Height = -11
+        Font.Name = 'Tahoma'
+        Font.Style = [fsBold]
+        ParentFont = False
+        TabOrder = 12
+        OnClick = Button2Click
+      end
+      object Button3: TButton
+        Left = 400
+        Top = 30
+        Width = 75
+        Height = 25
+        Caption = 'Load'
+        Font.Charset = DEFAULT_CHARSET
+        Font.Color = clWindowText
+        Font.Height = -11
+        Font.Name = 'Tahoma'
+        Font.Style = [fsBold]
+        ParentFont = False
+        TabOrder = 13
+        OnClick = Button3Click
+      end
     end
   end
   object Timer1: TTimer
     Interval = 100
     OnTimer = Timer1Timer
-    Left = 385
-    Top = 151
+    Left = 473
+    Top = 39
   end
 end
